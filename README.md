@@ -9,6 +9,7 @@ To install you'll need:
 -Node.js and npm. -note Dont use the apt version as the apt version is outdated. Just download it from node.js's website
 
 -Port forward port :3000 or you can use ngrok to do that for you
+
 -these packages which you can install with
 
 ```
